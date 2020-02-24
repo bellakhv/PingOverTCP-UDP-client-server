@@ -18,7 +18,7 @@ dataLen = 1000000
 CLIENTS_NUM = 10
 
 #For testing the server when TEST=1
-TEST_MODE = 1
+TEST_MODE = 0
 THRESHOLD = 5
 
 serverUdpSocket = socket(AF_INET, SOCK_DGRAM)
